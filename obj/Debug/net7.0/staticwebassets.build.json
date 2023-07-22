@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k2K0F/eYZOZiiHnDdSHoEMM14kJabC8qEhjkA3On1As=",
+  "Source": "MongoBookStoreApi",
+  "BasePath": "_content/MongoBookStoreApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
